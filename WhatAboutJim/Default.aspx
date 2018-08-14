@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Home.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="WhatAboutJim._Default" %>
+﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="WhatAboutJim._Default" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <div class="panel panel-default texture2">
@@ -7,7 +7,7 @@
     <div class="panel panel-default texture1">
         <div class="text-center">
             <h3 class="panel-text-blk">Check out our new Album</h3>
-            <input class="btn btn-default" type="button" value="New Album" />
+            <input class="btn btn-default" type="button" value="Coming Soon" />
         </div>
     </div>
     <div class="panel panel-default">

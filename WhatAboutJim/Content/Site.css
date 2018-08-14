@@ -2,6 +2,16 @@
 body {
     padding-top: 50px;
     padding-bottom: 20px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #eee;
+    background-color: #272727;
+}
+
+p {
+    text-align:justify;
+    color: #eee;
 }
 
 /* Wrapping element */
@@ -9,10 +19,11 @@ body {
 .body-content {
     padding-left: 15px;
     padding-right: 15px;
+    background-color:#272727;
 }
 
 .panel-content {
-    padding:0px;
+    padding:0;
 }
 
 .panel-text-blk {
@@ -67,7 +78,6 @@ textarea {
 }
 
 .panel-default {
-    border-color: #ddd;
     color: #333;
     background-color: #272727;
     border-color: #272727;
