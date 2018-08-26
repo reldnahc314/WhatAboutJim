@@ -56,10 +56,15 @@
                         <li><a runat="server" href="~/Music">Music</a></li>
                         <li><a runat="server" href="~/Contact">Contact</a></li>
                     </ul>
-                    <ul class="nav navbar-nav navbar-right">
-                        <li><a runat="server" class="fa fa-facebook" href="https://www.facebook.com/whataboutjim" target="_blank"></a></li>
-                        <li><a runat="server" class="fa fa-twitter" href="https://twitter.com/whataboutjim1" target="_blank"></a></li>
-                        <li><a runat="server" class="fa fa-youtube" href="https://www.youtube.com/channel/UCjhEjzfIIiPn3k2sTiZjtSQ" target="_blank"></a></li>
+                    <ul class="nav navbar-nav navbar-right hidden-xs">
+                        <li><a runat="server" class="fa fa-facebook fb" href="https://www.facebook.com/whataboutjim" target="_blank"></a></li>
+                        <li><a runat="server" class="fa fa-twitter tw" href="https://twitter.com/whataboutjim1" target="_blank"></a></li>
+                        <li><a runat="server" class="fa fa-youtube yt" href="https://www.youtube.com/channel/UCjhEjzfIIiPn3k2sTiZjtSQ" target="_blank"></a></li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right visible-xs">
+                        <li><a runat="server" class="fa fa-facebook fb-xs" href="https://www.facebook.com/whataboutjim" target="_blank"></a></li>
+                        <li><a runat="server" class="fa fa-twitter tw-xs" href="https://twitter.com/whataboutjim1" target="_blank"></a></li>
+                        <li><a runat="server" class="fa fa-youtube yt-xs" href="https://www.youtube.com/channel/UCjhEjzfIIiPn3k2sTiZjtSQ" target="_blank"></a></li>
                     </ul>
                 </div>
             </div>

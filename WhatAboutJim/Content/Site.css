@@ -14,6 +14,10 @@ p {
     color: #eee;
 }
 
+li {
+    text-align: center;
+}
+
 /* Wrapping element */
 /* Set some basic padding to keep content from hitting the edges */
 .body-content {
@@ -98,25 +102,36 @@ textarea {
     background-repeat: repeat;
 }
 
-.fa-facebook {
+.fb {
     width: 50px;
     background: #3B5998;
     color: white !important;
 }
 
-.fa-twitter {
+.tw {
     width: 50px;
     background: #55ACEE;
     color: white !important;
 }
 
-.fa-youtube {
+.yt {
     width: 50px;
     background: #ff0000;
     color: white !important;
 }
 
-li {
-    text-align:center;
+.fb-xs {
+    background: #3B5998;
+    color: white !important;
+}
+
+.tw-xs {
+    background: #55ACEE;
+    color: white !important;
+}
+
+.yt-xs {
+    background: #ff0000;
+    color: white !important;
 }
 
