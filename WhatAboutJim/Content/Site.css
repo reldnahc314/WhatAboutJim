@@ -97,3 +97,26 @@ textarea {
     background-image: url("../img/connectwork.png");
     background-repeat: repeat;
 }
+
+.fa-facebook {
+    width: 50px;
+    background: #3B5998;
+    color: white !important;
+}
+
+.fa-twitter {
+    width: 50px;
+    background: #55ACEE;
+    color: white !important;
+}
+
+.fa-youtube {
+    width: 50px;
+    background: #ff0000;
+    color: white !important;
+}
+
+li {
+    text-align:center;
+}
+

@@ -2,6 +2,9 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <div class="embed-responsive embed-responsive-16by9">
+        <iframe  src="https://www.youtube-nocookie.com/embed/EYAlaWEy1Yk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div class="embed-responsive embed-responsive-16by9">
         <iframe  src="https://www.youtube-nocookie.com/embed/cdLoQirAnTM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
     <div class="embed-responsive embed-responsive-16by9">
