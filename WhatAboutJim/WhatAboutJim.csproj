@@ -163,11 +163,13 @@
     <Content Include="img\concrete-wall.png" />
     <Content Include="img\connectwork.png" />
     <Content Include="img\country-quilt.png" />
+    <Content Include="img\itunes.png" />
     <Content Include="img\qbkls.png" />
     <Content Include="img\texture.jpg" />
     <Content Include="img\WAJ Logo Trans Large.png" />
     <Content Include="img\WAJ Logo Transp.png" />
     <Content Include="img\WAJ Logo.jpg" />
+    <Content Include="img\WAJ_cover.jpg" />
     <Content Include="img\What About Jim 1.jpg" />
     <Content Include="img\What About Jim 2.jpg" />
     <Content Include="img\What About Jim 3.jpg" />
